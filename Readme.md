@@ -91,4 +91,8 @@ slickdata/finetuned-Sentiment-classfication-ROBERTA-model-App
 
 
 ## Author
-Henry Nii Ayitey-Adjin 
+`Henry Nii Ayitey-Adjin` 
+
+`Data Analyst`
+
+`Azubi Africa`
