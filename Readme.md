@@ -86,7 +86,7 @@ https://github.com/slickHnaa/Covid-Sentiment-Analysis.git
 To use the deployed app visit:
 
 ```bash
-slickdata/finetuned-Sentiment-classfication-ROBERTA-model-App
+https://huggingface.co/spaces/slickdata/finetuned-Sentiment-classfication-ROBERTA-model-App
 ```
 
 
