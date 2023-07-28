@@ -5,7 +5,7 @@ This project aims at developing a machine learning model to assess the sentiment
 ## Summary
 | Code      | Name        | Published Article |  Deployed App |
 |-----------|-------------|:-------------:|------:|
-| LP5 | Fine Tuning Pretrained From HuggingFace |  [ARTICLE](https://medium.com/@hnayiteyadjin/sentimental-analysis-of-covid-vaccines-by-utilizing-pretrained-models-from-huggingface-a7e1e73152b) | [APP](slickdata/finetuned-Sentiment-classfication-ROBERTA-model-App) |
+| LP5 | Fine Tuning Pretrained From HuggingFace |  [ARTICLE](https://medium.com/@hnayiteyadjin/sentimental-analysis-of-covid-vaccines-by-utilizing-pretrained-models-from-huggingface-a7e1e73152b) | [APP](https://huggingface.co/spaces/slickdata/finetuned-Sentiment-classfication-ROBERTA-model-App) |
 
 
 ## Content of Repo
