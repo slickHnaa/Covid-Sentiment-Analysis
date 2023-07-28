@@ -5,7 +5,7 @@ This project aims at developing a machine learning model to assess the sentiment
 ## Summary
 | Code      | Name        | Published Article |  Deployed App |
 |-----------|-------------|:-------------:|------:|
-| LP5 | Fine Tuning Pretrained From HuggingFace |  [ARTICLE](  ) | [APP](slickdata/finetuned-Sentiment-classfication-ROBERTA-model-App) |
+| LP5 | Fine Tuning Pretrained From HuggingFace |  [ARTICLE](https://medium.com/@hnayiteyadjin/sentimental-analysis-of-covid-vaccines-by-utilizing-pretrained-models-from-huggingface-a7e1e73152b) | [APP](slickdata/finetuned-Sentiment-classfication-ROBERTA-model-App) |
 
 
 ## Content of Repo
@@ -31,7 +31,7 @@ This project aims at developing a machine learning model to assess the sentiment
 
 | Feature    | Meaning                                                                               |
 |------------|---------------------------------------------------------------------------------------|
-| tweet_id   | Unique identifier of the tweet                                                       |
+| tweet_id   | Unique identifier of the tweet                                                        |
 | safe_tweet | Text contained in the tweet. Sensitive information (usernames, URLs) removed          |
 | label      | Sentiment of the tweet (-1 for negative, 0 for neutral, 1 for positive)               |
 | agreement  | Percentage of agreement among the three reviewers for the given label                 |
